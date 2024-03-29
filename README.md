@@ -1,4 +1,4 @@
-# speakeng-privacy-policy
+# Speakeng Privacy Policy
 Speak Eng - English Listening Application Privacy policy
 
 [Download the application here](https://play.google.com/store/apps/details?id=org.otisboykin.speakeng)
