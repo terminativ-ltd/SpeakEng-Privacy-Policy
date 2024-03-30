@@ -164,6 +164,6 @@ We're always working on improving YouEng. Let us know what you think!
 
 
 
-Onwer: [Otis Boykin](https://otisboykin.org)  
+Owner: [Otis Boykin](https://otisboykin.org)  
 
 Developer: [Terminativ Ltd](https://termintiv.com)
